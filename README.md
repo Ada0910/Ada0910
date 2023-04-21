@@ -18,7 +18,7 @@ I'm **Ada**, a Java Engineer from GuangZhou, China.
 ### :octocat: Projects starred by me
 ---
 
-[<img align="right" top="20" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ada0910&layout=compact">](https://github.com/Ada0910)
+[<img align="right" top="20" bottom="20" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ada0910&layout=compact">](https://github.com/Ada0910)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ada0910&repo=error-log)](https://github.com/Ada0910/error-log)
