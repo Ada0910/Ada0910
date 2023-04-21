@@ -1,19 +1,31 @@
-### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=Ada0910&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+### Hey, Ada here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://komarev.com/ghpvc/?username=Ada0910)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
 
-<!--
-**Ada0910/Ada0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是 Ada
 
-Here are some ideas to get you started:
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ada0910&count_private=true&show_icons=true">](https://github.com/Ada0910)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Ada**, a Front-end Engineer from Shandong, China.
+
+-   :hammer_and_pick: Java/JS/Vue/MySql/Redis/MQ
+-   :package: Building Java and more
+-   :e-mail: 1355948107@.com
+-   :man: Pronouns: Ada
+
+<br />
+
+
+### :octocat: Projects starred by me
+---
+
+[<img align="right" top="20" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ada0910&layout=compact">](https://github.com/Ada0910)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ada0910&repo=error-log)](https://github.com/Ada0910/error-log)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ada0910&repo=algorithm)](https://github.com/Ada0910/algorithm)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ada0910&repo=repository-code)](https://github.com/Ada0910/repository-code)
+
+<br />
+
